@@ -1,0 +1,10 @@
+=== Assignment 4: AI Technique Integration ===
+AI Method: Genetic Algorithm
+OR-Tools available: False
+
+                 tour_length             runtime          
+                        mean       std      mean       std
+method                                                    
+GeneticAlgorithm   11.298228  0.907699  3.191905  0.159292
+Heuristic           6.532960  0.565166  0.114412  0.035137
+SA                 25.319508  1.573508  0.157714  0.025931
